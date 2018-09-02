@@ -5,7 +5,7 @@ var cacheName = "QuoteClock-1.1"
 // Application shell files to be cached
 var filesToCache = ['/', '/index.html', '/app.js',
 	'/styles.css', 'data.json', 'https://fonts.googleapis.com/css?family=Abel',
-	'/images/apple-touch-icon.png', 'mstile-150x150.png', '/favicon-16x16.png',
+	'/images/apple-touch-icon.png', '/images/mstile-150x150.png', '/favicon-16x16.png',
 	'/favicon-32x32.png', '/images/android-chrome-512x512.png', 
 	'/images/android-chrome-192x192.png', '/images/safari-pinned-tab.svg'
 ]
