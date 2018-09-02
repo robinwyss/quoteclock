@@ -1,0 +1,20 @@
+{
+	"name": "Quote Clock",
+	"short_name": "Clock",
+	"icons": [
+		{
+			"src": "images/android-chrome-192x192.png",
+			"sizes": "192×192",
+			"type": "mage/png"
+		},
+		{
+			"src": "images/android-chrome-512x512.png",
+			"sizes": "512×512",
+			"type": "image/png"
+		}
+	],
+	"start_url": "/index.html",
+	"display": "standalone",
+	"background_color": "#FFFFFF",
+	"theme_color": "#FFFFFF"
+}
